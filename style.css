@@ -1,0 +1,13 @@
+body {font-family: arial, sans-serif; font-size: 13px; margin: 0px; padding: 0px;}
+#top {padding: 4px 12px; border-bottom: 1px solid #c9d7f1; width: 98%; display: inline-block;}
+.active_link {text-decoration: none; color: black; font-weight: bold;}
+a {margin: 0px 4px;}
+#top_left {float: left;}
+#top_right {float: right;}
+.user_email {display: inline; font-weight: bold;}
+#warn_p {font-weight: bolder; display: inline;}
+#warning {margin: 0px 5px; background-color: #fae5b0; font-size: 13.6px; padding: 5px; border: 1px solid #fad163;}
+#emph_link {font-weight: bolder;}
+img {vertical-align: middle;}
+#logo_and_shit {padding: 7px;}
+#search_box {width: 250px;}
